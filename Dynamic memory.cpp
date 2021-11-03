@@ -20,7 +20,7 @@ int main()
         cout << a[i] << endl;
     }
 
-    delete a; //'delete' operator simply deallocates the variable 'a'
+    delete [] a; //'delete' operator simply deallocates the variable 'a'
 
     return 0;
 }
