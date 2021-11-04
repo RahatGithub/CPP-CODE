@@ -19,7 +19,7 @@ int main() {
     showing it repeatedly.*/
     
     cout << (rand() % 10);  
-    /*This will generate a number within the range 0-10.*/
+    /*This will generate a number within the range 0-9.*/
 
     return 0;
 

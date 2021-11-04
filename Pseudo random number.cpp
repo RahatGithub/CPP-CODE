@@ -13,7 +13,7 @@ int main() {
 
     for(int i=0; i<10; i++)
     {
-        cout << (rand() % 10) << endl; //rand() generates any random number, whereas (rand() % n) generates within the range 0-n
+        cout << (rand() % 10) << endl; //rand() generates any random number, whereas (rand() % n) generates within the range 0-(n-1)
     }
     
 }
