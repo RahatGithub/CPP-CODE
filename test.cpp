@@ -1,4 +1,4 @@
-/*Default parameter of a function*/
+/*Default argument of a function*/
 
 #include <iostream>
 using namespace std;
